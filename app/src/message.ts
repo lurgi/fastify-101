@@ -1,1 +1,1 @@
-export const message = "hi";
+export const message = "12345 is it ok?";
